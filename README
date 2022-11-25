@@ -3,8 +3,7 @@ Proyecto realizado para la asignatura de Integración de Sistemas Informáticos.
 Consiste en una aplicación web en la que se permite al usuario introducir el nombre de un artista, 
 y la web le proporcionará todo tipo de información acerca de este, como su popularidad o su obra más escuchada, 
 además de twits relacionados con el artista para ver la opinión actual de la sociedad acerca de él. 
-También proporciona la funcionalidad de poder comparar dos artistas, de modo que analizará sus datos para ofrecer diversa información 
-y un gráfico comparativo de ambos.
+También proporciona la funcionalidad de poder comparar dos artistas, de modo que analizará sus datos para ofrecer diversa información y un gráfico comparativo de ambos.
 
 Realizado por David Arias Escribano, Esther Camacho Caro, Jorge Herrero Úbeda e Isabel del Rosario González Vega.
 
